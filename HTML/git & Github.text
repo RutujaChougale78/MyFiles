@@ -12,3 +12,8 @@ First time you may end up git config errors, to solve it do following cammands
 
 git config --global user.email "your email id"
 git config --global user.name "Username"
+
+After this try git add . and git commit -m "Update" again
+
+4. git remote add origin "link"
+5. git push -u origin main
