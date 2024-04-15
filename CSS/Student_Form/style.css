@@ -14,7 +14,7 @@ body {
 }
 
 .registration-container {
-    background: #fff;
+    background: #e5e0e6;
     border-radius: 0.5rem;
     padding: 1rem;
     margin: 1rem;
@@ -33,7 +33,7 @@ body {
     top: 100%;
     left: 0;
     height: 3px;
-    width: 20%;
+    width: 40%;
     border-radius: 2px;
     background-color:  rgb(117, 49, 58);
 }
@@ -44,9 +44,9 @@ body {
 }
 
 hr {
-    width: 70%;
+    width: 100%;
     height: 1px;
-    background-color:  rgb(179, 62, 171);
+    background-color:  rgb(182, 122, 178);
     margin: 1rem 0;
     border: none;
 }
